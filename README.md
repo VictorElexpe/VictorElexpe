@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on open sources projects.
 
-- 🤔 I’m looking for help with my project [Let's ping it](https://github.com/letspingit). Go check it to know more about it!
+- 🤔 I’m looking for help with my project [Let's Ping It](https://github.com/letspingit). Go check it to know more about it!
 
 - 🇪🇪 I enjoyed an Erasmus international exchange at [TalTech](https://taltech.ee), Estonia, where I learned about robotics, embedded systems and software architecture.
 
