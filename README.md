@@ -1,8 +1,8 @@
-## Hola! 👋
+### Hey 👋
 
-### they / them
+#### they / them
 
-> I'm a junior computer engineer based in Madrid who is really interested in everything related to creating communities and connecting people. I have worked in hardware, networks and software. Lately, I'm more focused on web development, where I'm trying to catch up with the modern technologies.
+*I'm a junior computer engineer based in Madrid who is really interested in everything related to creating communities and connecting people. I have worked in hardware, networks and software. Lately, I'm more focused on web development, where I'm trying to catch up with the modern technologies.*
 
 - 🔭 I’m currently working on developing tools that can connect people in better ways.
 
